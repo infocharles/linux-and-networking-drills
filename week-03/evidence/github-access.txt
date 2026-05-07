@@ -1,0 +1,21 @@
+Repository working directory:
+/Users/cherlesbass/linux-and-networking-drills
+
+Remote configuration:
+origin	https://github.com/infocharles/linux-and-networking-drills.git (fetch)
+origin	https://github.com/infocharles/linux-and-networking-drills.git (push)
+
+Current branch before Week 3 work:
+
+Git identity:
+name=charles ajuokwu
+email=charles.chijioke.aj@gmail.com
+
+Connection method:
+HTTPS
+
+Reason:
+I used Https because ssh key wasn't configured to my local machine. It allows direct interaction with GitHub without additional setup
+
+Connection proof:
+git remote -v

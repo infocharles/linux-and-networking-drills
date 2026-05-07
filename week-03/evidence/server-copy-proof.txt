@@ -1,0 +1,44 @@
+Remote Week 1 source path:
+/week01-submissions/charles-linux-baseline
+
+Remote Week 2 source path:
+/week02-submissions/charles-networking-runbook
+
+Imported folder tree:
+imported-submissions
+imported-submissions/week-01-linux-baseline
+imported-submissions/week-01-linux-baseline/evidence
+imported-submissions/week-01-linux-baseline/evidence/cron-proof.txt
+imported-submissions/week-01-linux-baseline/evidence/health-check-output.txt
+imported-submissions/week-01-linux-baseline/evidence/permissions-proof.txt
+imported-submissions/week-01-linux-baseline/evidence/services-proof.txt
+imported-submissions/week-01-linux-baseline/evidence/system-info.txt
+imported-submissions/week-01-linux-baseline/evidence/users-and-groups.txt
+imported-submissions/week-01-linux-baseline/notes
+imported-submissions/week-01-linux-baseline/notes/README.md
+imported-submissions/week-01-linux-baseline/notes/server-baseline.md
+imported-submissions/week-01-linux-baseline/scripts
+imported-submissions/week-01-linux-baseline/scripts/health-check.sh
+imported-submissions/week-02-networking-runbook
+imported-submissions/week-02-networking-runbook/evidence
+imported-submissions/week-02-networking-runbook/evidence/local-failure-checks.txt
+imported-submissions/week-02-networking-runbook/evidence/local-healthy-checks.txt
+imported-submissions/week-02-networking-runbook/evidence/port-selection.txt
+imported-submissions/week-02-networking-runbook/evidence/public-endpoint-checks.txt
+imported-submissions/week-02-networking-runbook/notes
+imported-submissions/week-02-networking-runbook/notes/README.md
+imported-submissions/week-02-networking-runbook/notes/recovery-log.md
+imported-submissions/week-02-networking-runbook/notes/script-explanation.txt
+imported-submissions/week-02-networking-runbook/notes/troubleshooting-runbook.md
+imported-submissions/week-02-networking-runbook/scripts
+imported-submissions/week-02-networking-runbook/scripts/start-simple-service.sh
+
+Week 1 note sample:
+README.md
+server-baseline.md
+
+Week 2 note sample:
+README.md
+recovery-log.md
+script-explanation.txt
+troubleshooting-runbook.md
