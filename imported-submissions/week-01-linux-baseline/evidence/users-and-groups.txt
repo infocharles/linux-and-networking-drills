@@ -1,0 +1,36 @@
+===== USER & ACCESS CONTEXT =====
+Date: Wed Apr 22 15:12:02 UTC 2026
+
+Username:
+charles
+
+Group Membership:
+uid=1015(charles) gid=1015(charles) groups=1015(charles),27(sudo)
+
+Home Directory:
+/home/charles
+
+Active Sessions:
+tasmin   pts/1        Apr 21 23:01 (149.12.6.182)
+tasmin   pts/2        Apr 21 00:25 (149.12.6.182)
+charles  pts/3        Apr 22 07:41 (92.21.134.104)
+tasmin   pts/5        Apr 21 00:29 (149.12.6.182)
+tasmin   pts/6        Apr 21 00:31 (149.12.6.182)
+tasmin   pts/7        Apr 21 00:32 (149.12.6.182)
+tasmin   pts/8        Apr 21 00:33 (149.12.6.182)
+tasmin   pts/9        Apr 21 00:34 (149.12.6.182)
+tasmin   pts/10       Apr 21 00:34 (149.12.6.182)
+tasmin   pts/11       Apr 21 00:34 (149.12.6.182)
+tasmin   pts/12       Apr 21 00:34 (149.12.6.182)
+tasmin   pts/13       Apr 21 00:35 (149.12.6.182)
+tasmin   pts/14       Apr 21 00:51 (149.12.6.182)
+hannah   pts/15       Apr 22 12:20 (194.26.208.5)
+tasmin   pts/18       Apr 21 22:32 (149.12.6.182)
+tasmin   pts/19       Apr 21 22:34 (149.12.6.182)
+tasmin   pts/20       Apr 21 22:37 (149.12.6.182)
+tasmin   pts/21       Apr 21 22:38 (149.12.6.182)
+hannah   pts/22       Apr 22 14:46 (194.26.208.5)
+sidar    pts/23       Apr 22 15:04 (185.17.206.68)
+
+SSH Service Status:
+active
