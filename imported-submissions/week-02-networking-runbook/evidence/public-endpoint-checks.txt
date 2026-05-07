@@ -1,0 +1,17 @@
+===== PUBLIC ENDPOINT CHECKS =====
+Date: Tue Apr 28 11:51:21 UTC 2026
+
+1. HTTPS healthy - example.com
+HTTP/2 200 
+date: Tue, 28 Apr 2026 11:51:21 GMT
+content-type: text/html
+server: cloudflare
+last-modified: Sat, 25 Apr 2026 11:01:06 GMT
+allow: GET, HEAD
+accept-ranges: bytes
+age: 11919
+cf-cache-status: HIT
+cf-ray: 9f35dac6acb290ac-IAD
+
+
+2. HTTP plain - neverssl.com

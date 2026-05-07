@@ -1,0 +1,9 @@
+===== LOCAL FAILURE CHECKS =====
+Date: Tue Apr 28 11:12:30 UTC 2026
+
+Failure 1: Service not running
+Command: curl http://localhost:8005
+
+Failure 2: Wrong port
+Command: curl http://localhost:8999
+

@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+This is called the shebang.
+It tells the system to run the script with Bash.
+
+set -euo pipefail
+-e makes the script stop if a command fails.
+-u makes the script stop if you try to use a variable that has not been set.
+pipefail makes pipelines fail properly if a command inside them fails.
+Together, this makes the script stricter and safer.
+
+read -rp "Enter your assigned port (8000-8020): " PORT
+read waits for user input.
+-r makes the input handling safer by not treating backslashes specially.
+-p prints the prompt text.
+PORT is the variable that stores the answer.
+
+case "${PORT}" in ... esac
+This checks whether the user entered a valid port in the allowed range.
+If the value matches 8000 to 8020, the script continues.
+If it does not match, the script prints an error and exits.
+
+RESPONSE="..."
+This stores a simple HTTP response in a variable.
+It includes the status line HTTP/1.1 200 OK.
+It includes a header showing the content type is plain text.
+It includes a small body that says the service is running on the chosen port.
+
+\r\n
+These are HTTP line breaks.
+HTTP expects headers to be separated in a specific way, and that is why these characters are in the response.
+
+printf '%b' "${RESPONSE}"
+printf prints text.
+%b tells it to interpret escape sequences such as \r\n instead of printing them literally.
+
+nc -l "${PORT}"
+nc means Netcat.
+-l means listen for a connection on the chosen port.
+The response from printf is piped into Netcat, so when a client connects, Netcat sends that HTTP response.
