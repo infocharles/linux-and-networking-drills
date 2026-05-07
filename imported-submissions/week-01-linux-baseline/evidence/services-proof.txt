@@ -1,0 +1,78 @@
+SSH service status:
+● ssh.service - OpenBSD Secure Shell server
+     Loaded: loaded (/usr/lib/systemd/system/ssh.service; enabled; preset: enabled)
+    Drop-In: /usr/lib/systemd/system/ssh.service.d
+             └─ec2-instance-connect.conf
+     Active: active (running) since Thu 2026-04-16 21:44:51 UTC; 5 days ago
+TriggeredBy: ● ssh.socket
+       Docs: man:sshd(8)
+             man:sshd_config(5)
+   Main PID: 56146 (sshd)
+      Tasks: 2 (limit: 1004)
+     Memory: 7.7M (peak: 19.6M)
+        CPU: 28.846s
+     CGroup: /system.slice/ssh.service
+             ├─44966 "sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups"
+             └─56146 "sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups"
+
+Cron service status:
+● cron.service - Regular background program processing daemon
+     Loaded: loaded (/usr/lib/systemd/system/cron.service; enabled; preset: enabled)
+     Active: active (running) since Sun 2026-04-12 01:31:49 UTC; 1 week 3 days ago
+       Docs: man:cron(8)
+   Main PID: 583 (cron)
+      Tasks: 1 (limit: 1004)
+     Memory: 6.3M (peak: 15.2M)
+        CPU: 6min 34.286s
+     CGroup: /system.slice/cron.service
+             └─583 /usr/sbin/cron -f -P
+
+Warning: some journal files were not opened due to insufficient permissions.
+
+Sample process list:
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Apr12 ?        00:01:11 /usr/lib/systemd/systemd --system --deserialize=82
+root           2       0  0 Apr12 ?        00:00:00 [kthreadd]
+root           3       2  0 Apr12 ?        00:00:00 [pool_workqueue_release]
+root           4       2  0 Apr12 ?        00:00:00 [kworker/R-rcu_gp]
+root           5       2  0 Apr12 ?        00:00:00 [kworker/R-sync_wq]
+root           6       2  0 Apr12 ?        00:00:00 [kworker/R-kvfree_rcu_reclaim]
+root           7       2  0 Apr12 ?        00:00:00 [kworker/R-slub_flushwq]
+root           8       2  0 Apr12 ?        00:00:00 [kworker/R-netns]
+root          10       2  0 Apr12 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          13       2  0 Apr12 ?        00:00:00 [kworker/R-mm_percpu_wq]
+root          14       2  0 Apr12 ?        00:00:02 [ksoftirqd/0]
+root          15       2  0 Apr12 ?        00:00:20 [rcu_sched]
+root          16       2  0 Apr12 ?        00:00:00 [rcu_exp_par_gp_kthread_worker/0]
+root          17       2  0 Apr12 ?        00:00:00 [rcu_exp_gp_kthread_worker]
+root          18       2  0 Apr12 ?        00:00:04 [migration/0]
+root          19       2  0 Apr12 ?        00:00:00 [idle_inject/0]
+root          20       2  0 Apr12 ?        00:00:00 [cpuhp/0]
+root          21       2  0 Apr12 ?        00:00:00 [cpuhp/1]
+root          22       2  0 Apr12 ?        00:00:00 [idle_inject/1]
+
+SSH and cron related processes:
+root         583       1  0 Apr12 ?        00:00:06 /usr/sbin/cron -f -P
+root       44966       1  0 Apr16 ?        00:00:00 sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups
+root       56146       1  0 Apr16 ?        00:00:00 sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups
+root      174088   44966  0 07:41 ?        00:00:00 sshd: charles [priv]
+charles   174222  174088  0 07:41 ?        00:00:00 sshd: charles@pts/3
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         477         117           2         505         434
+Swap:              0           0           0
+
+Disk usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.8G  3.2G  3.6G  47% /
+tmpfs            456M     0  456M   0% /dev/shm
+tmpfs            183M 1000K  182M   1% /run
+tmpfs            5.0M     0  5.0M   0% /run/lock
+efivarfs         128K  3.6K  120K   3% /sys/firmware/efi/efivars
+/dev/nvme0n1p16  881M  162M  657M  20% /boot
+/dev/nvme0n1p15  105M  6.2M   99M   6% /boot/efi
+/dev/nvme1n1p1   6.8G  2.6G  4.2G  39% /mnt/old
+tmpfs             92M   12K   92M   1% /run/user/1021
+tmpfs             92M   12K   92M   1% /run/user/1015
+Inspected SSH for access, cron for automation, and system resources for health overview.

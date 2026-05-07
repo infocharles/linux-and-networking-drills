@@ -1,0 +1,5301 @@
+===== Week 1 Health Check =====
+Timestamp: Wed Apr 22 13:01:39 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:01:39 up 10 days, 11:30,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         492          91           2         515         418
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  3.2G  3.6G  47% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 09:50:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 09:50:02 up 23 days,  8:18,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         507         219           2         373         404
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 09:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 09:55:01 up 23 days,  8:23,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502         219           2         379         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:00:01 up 23 days,  8:28,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         216           2         384         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:01:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:01:01 up 23 days,  8:29,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         216           2         384         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:05:01 up 23 days,  8:33,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         216           2         384         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:10:01 up 23 days,  8:38,  7 users,  load average: 0.01, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         216           2         384         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:15:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:15:02 up 23 days,  8:43,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         216           2         384         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:20:01 up 23 days,  8:48,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         504         211           2         384         407
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:25:01 up 23 days,  8:53,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         506         208           2         384         404
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:30:01 up 23 days,  8:58,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         507         207           2         384         403
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:35:01 up 23 days,  9:03,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         512         203           2         385         399
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:40:01 up 23 days,  9:08,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         512         202           2         385         398
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:45:01 up 23 days,  9:13,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         519         195           2         385         391
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:50:01 up 23 days,  9:18,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         520         194           2         385         390
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 10:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 10:55:01 up 23 days,  9:23,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         521         193           2         385         390
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:00:01 up 23 days,  9:28,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         521         192           2         385         389
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:05:01 up 23 days,  9:33,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         520         193           2         386         390
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:10:01 up 23 days,  9:38,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         515         198           2         386         395
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:15:01 up 23 days,  9:43,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         512         201           2         386         398
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:20:01 up 23 days,  9:48,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         514         199           2         386         396
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:25:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:25:02 up 23 days,  9:53,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         514         199           2         387         397
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:30:01 up 23 days,  9:58,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         513         199           2         387         397
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:35:01 up 23 days, 10:03,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         513         199           2         387         397
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:40:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:40:02 up 23 days, 10:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         511         201           2         387         400
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:45:01 up 23 days, 10:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         511         201           2         388         400
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:50:01 up 23 days, 10:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         506         205           2         388         404
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 11:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 11:55:01 up 23 days, 10:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         506         205           2         388         404
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:00:01 up 23 days, 10:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         506         205           2         388         405
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:05:01 up 23 days, 10:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         506         205           2         388         405
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:10:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:10:02 up 23 days, 10:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         506         205           2         388         405
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:15:01 up 23 days, 10:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         504         207           2         388         406
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:20:01 up 23 days, 10:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         504         207           2         388         406
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:25:01 up 23 days, 10:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         211           2         388         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:30:02 up 23 days, 10:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         212           2         388         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:35:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:35:02 up 23 days, 11:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         212           2         388         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:40:01 up 23 days, 11:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         212           2         389         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:45:01 up 23 days, 11:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         212           2         389         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:50:01 up 23 days, 11:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         212           2         389         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 12:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 12:55:01 up 23 days, 11:23,  6 users,  load average: 0.02, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         212           2         389         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:00:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:00:02 up 23 days, 11:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         212           2         389         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:05:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:05:02 up 23 days, 11:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         212           2         389         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:10:01 up 23 days, 11:38,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         512         193           2         394         398
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:15:01 up 23 days, 11:43,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         510         195           2         394         400
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:20:01 up 23 days, 11:48,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         509         195           2         395         401
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:25:01 up 23 days, 11:53,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         510         194           2         395         400
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:30:01 up 23 days, 11:58,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         510         194           2         395         400
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:35:01 up 23 days, 12:03,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         510         194           2         395         400
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:40:01 up 23 days, 12:08,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         510         194           2         395         400
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:45:01 up 23 days, 12:13,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         509         195           2         395         401
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:50:01 up 23 days, 12:18,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         515         111           2         473         396
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 13:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 13:55:01 up 23 days, 12:23,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         513         111           2         475         398
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:00:01 up 23 days, 12:28,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         513         111           2         475         398
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:05:01 up 23 days, 12:33,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         513         111           2         475         398
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:10:01 up 23 days, 12:38,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         503         116           2         480         407
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:15:01 up 23 days, 12:43,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         504         114           2         480         406
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:20:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:20:02 up 23 days, 12:48,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         505         113           2         482         406
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:25:01 up 23 days, 12:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         118           2         482         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:30:01 up 23 days, 12:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         118           2         482         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:35:01 up 23 days, 13:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         118           2         482         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:40:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:40:02 up 23 days, 13:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         118           2         482         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:45:01 up 23 days, 13:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         118           2         482         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:50:01 up 23 days, 13:18,  6 users,  load average: 0.07, 0.02, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         120           2         483         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 14:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 14:55:01 up 23 days, 13:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         119           2         483         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:00:01 up 23 days, 13:28,  6 users,  load average: 0.96, 0.20, 0.06
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         119           2         483         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:05:01 up 23 days, 13:33,  6 users,  load average: 0.02, 0.10, 0.06
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         119           2         483         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:10:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:10:02 up 23 days, 13:38,  6 users,  load average: 0.00, 0.03, 0.03
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         118           2         483         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:15:02 up 23 days, 13:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         119           2         483         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:20:01 up 23 days, 13:48,  6 users,  load average: 0.88, 0.18, 0.06
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         120           2         483         415
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:25:01 up 23 days, 13:53,  6 users,  load average: 0.00, 0.06, 0.03
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         120           2         483         415
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:30:02 up 23 days, 13:58,  6 users,  load average: 0.00, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         120           2         483         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:35:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:35:02 up 23 days, 14:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         119           2         484         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:40:01 up 23 days, 14:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         493         122           2         484         417
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:45:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:45:02 up 23 days, 14:13,  6 users,  load average: 0.84, 0.19, 0.05
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         493         121           2         484         417
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:50:01 up 23 days, 14:18,  6 users,  load average: 0.00, 0.06, 0.02
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         495         120           2         485         416
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 15:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 15:55:02 up 23 days, 14:23,  6 users,  load average: 0.00, 0.02, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         118           2         485         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:00:01 up 23 days, 14:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         119           2         485         415
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:05:01 up 23 days, 14:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         118           2         485         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:10:01 up 23 days, 14:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         118           2         485         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:15:01 up 23 days, 14:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         495         119           2         485         416
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:20:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:20:02 up 23 days, 14:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         118           2         485         415
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:25:01 up 23 days, 14:53,  6 users,  load average: 0.00, 0.02, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         494         120           2         485         417
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:30:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:30:02 up 23 days, 14:58,  6 users,  load average: 0.80, 0.17, 0.05
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         118           2         485         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:35:01 up 23 days, 15:03,  6 users,  load average: 0.00, 0.05, 0.02
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         116           2         486         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:40:01 up 23 days, 15:08,  6 users,  load average: 0.00, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         116           2         486         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:45:01 up 23 days, 15:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         116           2         486         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:50:02 up 23 days, 15:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         117           2         486         415
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 16:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 16:55:01 up 23 days, 15:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         117           2         486         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:00:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:00:02 up 23 days, 15:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         115           2         487         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:05:01 up 23 days, 15:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         115           2         487         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:10:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:10:02 up 23 days, 15:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         115           2         487         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:15:01 up 23 days, 15:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         115           2         487         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:20:01 up 23 days, 15:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         114           2         487         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:25:01 up 23 days, 15:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         114           2         487         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:30:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:30:02 up 23 days, 15:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         114           2         487         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:35:02 up 23 days, 16:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         114           2         488         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:40:01 up 23 days, 16:08,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         519          87           2         493         391
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:45:01 up 23 days, 16:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         503         104           2         493         408
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:50:01 up 23 days, 16:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502         104           2         493         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 17:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 17:55:01 up 23 days, 16:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         107           2         493         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:00:01 up 23 days, 16:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         107           2         494         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:05:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:05:02 up 23 days, 16:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         107           2         494         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:10:01 up 23 days, 16:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         107           2         494         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:15:01 up 23 days, 16:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         106           2         494         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:20:01 up 23 days, 16:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         106           2         494         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:25:01 up 23 days, 16:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         106           2         494         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:30:01 up 23 days, 16:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         105           2         494         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:35:01 up 23 days, 17:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         105           2         495         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:40:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:40:02 up 23 days, 17:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         105           2         495         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:45:01 up 23 days, 17:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         105           2         495         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:50:01 up 23 days, 17:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501         104           2         495         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 18:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 18:55:01 up 23 days, 17:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         104           2         496         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:00:01 up 23 days, 17:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501         103           2         496         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:05:01 up 23 days, 17:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         104           2         496         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:10:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:10:02 up 23 days, 17:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         104           2         496         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:15:01 up 23 days, 17:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         104           2         496         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:20:01 up 23 days, 17:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         104           2         496         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:25:01 up 23 days, 17:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         104           2         496         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:30:01 up 23 days, 17:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         104           2         496         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:35:01 up 23 days, 18:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         104           2         496         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:40:01 up 23 days, 18:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         104           2         497         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:45:01 up 23 days, 18:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         104           2         497         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:50:01 up 23 days, 18:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         103           2         497         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 19:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 19:55:01 up 23 days, 18:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         506          96           2         497         404
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:00:01 up 23 days, 18:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         506          96           2         497         404
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:05:01 up 23 days, 18:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         505          97           2         497         406
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:10:01 up 23 days, 18:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         505          97           2         497         406
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:15:01 up 23 days, 18:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         506          96           2         497         405
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:20:02 up 23 days, 18:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         505          96           2         498         405
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:25:01 up 23 days, 18:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         505          97           2         498         406
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:30:01 up 23 days, 18:58,  6 users,  load average: 0.03, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         505          97           2         498         406
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:35:01 up 23 days, 19:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         504          98           2         498         407
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:40:01 up 23 days, 19:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502         100           2         498         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:45:01 up 23 days, 19:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501         100           2         498         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:50:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:50:02 up 23 days, 19:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501         100           2         498         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 20:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 20:55:01 up 23 days, 19:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          99           2         498         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:00:01 up 23 days, 19:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         503          98           2         498         408
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:05:01 up 23 days, 19:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          99           2         498         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:10:01 up 23 days, 19:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          99           2         498         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:15:01 up 23 days, 19:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          99           2         499         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:20:01 up 23 days, 19:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          99           2         499         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:25:01 up 23 days, 19:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          99           2         499         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:30:01 up 23 days, 19:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          99           2         499         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:35:01 up 23 days, 20:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          99           2         499         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:40:01 up 23 days, 20:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501         100           2         499         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:45:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:45:02 up 23 days, 20:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          99           2         499         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:50:01 up 23 days, 20:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          98           2         499         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 21:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 21:55:01 up 23 days, 20:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          98           2         500         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:00:01 up 23 days, 20:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          98           2         500         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:05:01 up 23 days, 20:33,  6 users,  load average: 0.56, 0.12, 0.04
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          99           2         500         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:10:01 up 23 days, 20:38,  6 users,  load average: 0.00, 0.03, 0.01
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          97           2         500         408
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:15:01 up 23 days, 20:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          99           2         500         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:20:01 up 23 days, 20:48,  6 users,  load average: 0.88, 0.18, 0.06
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          99           2         500         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:25:01 up 23 days, 20:53,  6 users,  load average: 0.88, 0.24, 0.09
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         100           2         500         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:30:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:30:02 up 23 days, 20:58,  6 users,  load average: 0.08, 0.10, 0.07
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          99           2         500         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:35:01 up 23 days, 21:03,  6 users,  load average: 0.00, 0.03, 0.04
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          99           2         500         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:40:01 up 23 days, 21:08,  6 users,  load average: 0.00, 0.00, 0.01
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          99           2         500         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:45:01 up 23 days, 21:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          98           2         501         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:50:01 up 23 days, 21:18,  6 users,  load average: 0.40, 0.08, 0.03
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          98           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 22:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 22:55:01 up 23 days, 21:23,  6 users,  load average: 0.00, 0.02, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          98           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:00:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:00:02 up 23 days, 21:28,  6 users,  load average: 0.88, 0.18, 0.06
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          98           2         502         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:05:01 up 23 days, 21:33,  6 users,  load average: 0.03, 0.07, 0.04
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          97           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:10:01 up 23 days, 21:38,  6 users,  load average: 0.00, 0.02, 0.01
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          97           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:15:01 up 23 days, 21:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          97           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:20:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:20:02 up 23 days, 21:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          97           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:25:01 up 23 days, 21:53,  6 users,  load average: 0.00, 0.03, 0.01
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          97           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:30:01 up 23 days, 21:58,  6 users,  load average: 0.00, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          97           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:35:01 up 23 days, 22:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          97           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:40:01 up 23 days, 22:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          97           2         502         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:45:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:45:02 up 23 days, 22:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500          97           2         503         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:50:01 up 23 days, 22:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          98           2         503         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Tue May  5 23:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 23:55:01 up 23 days, 22:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          98           2         503         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:00:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:00:02 up 23 days, 22:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          97           2         504         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:05:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:05:02 up 23 days, 22:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          97           2         505         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:10:01 up 23 days, 22:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          96           2         506         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:15:02 up 23 days, 22:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          96           2         506         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:20:01 up 23 days, 22:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          97           2         506         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:25:01 up 23 days, 22:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          96           2         508         415
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:30:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:30:02 up 23 days, 22:58,  6 users,  load average: 0.03, 0.02, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          93           2         508         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:35:01 up 23 days, 23:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          92           2         508         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:40:01 up 23 days, 23:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          93           2         509         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:45:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:45:02 up 23 days, 23:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          93           2         509         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:50:01 up 23 days, 23:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          93           2         509         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 00:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 00:55:01 up 23 days, 23:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          94           2         509         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:00:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:00:02 up 23 days, 23:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          93           2         509         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:05:01 up 23 days, 23:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          93           2         509         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:10:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:10:02 up 23 days, 23:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          92           2         509         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:15:01 up 23 days, 23:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          91           2         509         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:20:01 up 23 days, 23:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          91           2         510         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:25:02 up 23 days, 23:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          90           2         510         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:30:01 up 23 days, 23:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          91           2         510         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:35:01 up 24 days, 3 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          91           2         511         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:40:01 up 24 days, 8 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          91           2         511         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:45:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:45:02 up 24 days, 13 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         493          95           2         512         417
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:50:01 up 24 days, 18 min,  6 users,  load average: 0.01, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          88           2         512         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 01:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 01:55:01 up 24 days, 23 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          88           2         513         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:00:01 up 24 days, 28 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          88           2         513         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:05:01 up 24 days, 33 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          88           2         513         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:10:01 up 24 days, 38 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          88           2         514         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:15:01 up 24 days, 43 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          89           2         514         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:20:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:20:02 up 24 days, 48 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          89           2         514         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:25:01 up 24 days, 53 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          89           2         514         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:30:01 up 24 days, 58 min,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          89           2         514         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:35:01 up 24 days,  1:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          88           2         514         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:40:01 up 24 days,  1:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          89           2         514         415
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:45:01 up 24 days,  1:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          89           2         514         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:50:01 up 24 days,  1:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          89           2         514         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 02:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 02:55:01 up 24 days,  1:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497          88           2         514         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:00:01 up 24 days,  1:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         494          91           2         514         416
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:05:01 up 24 days,  1:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          89           2         515         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:10:01 up 24 days,  1:38,  6 users,  load average: 0.04, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          88           2         515         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:15:01 up 24 days,  1:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          88           2         515         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:20:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:20:02 up 24 days,  1:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          89           2         515         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:25:01 up 24 days,  1:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          89           2         515         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:30:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:30:02 up 24 days,  1:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496          89           2         515         415
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:35:01 up 24 days,  2:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          87           2         515         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:40:01 up 24 days,  2:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          86           2         515         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:45:01 up 24 days,  2:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          86           2         515         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:50:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:50:02 up 24 days,  2:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          85           2         515         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 03:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 03:55:01 up 24 days,  2:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          85           2         516         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:00:01 up 24 days,  2:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          85           2         516         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:05:01 up 24 days,  2:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          85           2         516         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:10:01 up 24 days,  2:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          85           2         516         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:15:01 up 24 days,  2:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          85           2         516         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:20:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:20:02 up 24 days,  2:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          85           2         516         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:25:01 up 24 days,  2:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          85           2         516         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:30:01 up 24 days,  2:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          85           2         516         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:35:01 up 24 days,  3:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          85           2         516         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:40:01 up 24 days,  3:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          85           2         516         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:45:01 up 24 days,  3:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          85           2         517         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:50:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:50:02 up 24 days,  3:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          84           2         517         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 04:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 04:55:01 up 24 days,  3:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          84           2         517         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:00:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:00:02 up 24 days,  3:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499          84           2         517         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:05:02 up 24 days,  3:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          84           2         517         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:10:01 up 24 days,  3:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          84           2         517         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:15:01 up 24 days,  3:43,  6 users,  load average: 0.00, 0.02, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498          84           2         517         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:20:01 up 24 days,  3:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          80           2         517         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:25:01 up 24 days,  3:53,  6 users,  load average: 0.00, 0.02, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          80           2         517         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:30:01 up 24 days,  3:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          80           2         518         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:35:01 up 24 days,  4:03,  6 users,  load average: 0.88, 0.18, 0.06
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          80           2         518         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:40:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:40:02 up 24 days,  4:08,  6 users,  load average: 0.00, 0.06, 0.03
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          80           2         518         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:45:01 up 24 days,  4:13,  6 users,  load average: 0.00, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          80           2         518         408
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:50:01 up 24 days,  4:18,  6 users,  load average: 0.00, 0.04, 0.01
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          79           2         518         408
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 05:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 05:55:01 up 24 days,  4:23,  6 users,  load average: 0.00, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          79           2         518         408
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:00:02 up 24 days,  4:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          79           2         518         408
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:05:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:05:02 up 24 days,  4:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          79           2         518         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:10:01 up 24 days,  4:38,  6 users,  load average: 0.11, 0.04, 0.01
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          79           2         519         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:15:01 up 24 days,  4:43,  6 users,  load average: 0.00, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          79           2         519         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:20:01 up 24 days,  4:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         502          79           2         519         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:25:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:25:02 up 24 days,  4:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          79           2         519         409
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:30:01 up 24 days,  4:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          79           2         519         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:35:01 up 24 days,  5:03,  6 users,  load average: 0.00, 0.02, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          79           2         519         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:40:01 up 24 days,  5:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         501          79           2         519         410
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:45:01 up 24 days,  5:13,  6 users,  load average: 0.03, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         146           2         457         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:50:01 up 24 days,  5:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         145           2         458         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 06:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 06:55:01 up 24 days,  5:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         144           2         458         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:00:01 up 24 days,  5:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         144           2         458         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:05:01 up 24 days,  5:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         144           2         458         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:10:01 up 24 days,  5:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         145           2         458         415
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:15:01 up 24 days,  5:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         145           2         458         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:20:01 up 24 days,  5:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         145           2         459         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:25:01 up 24 days,  5:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         144           2         459         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:30:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:30:01 up 24 days,  5:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         496         144           2         459         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:35:01 up 24 days,  6:03,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         143           2         459         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:40:01 up 24 days,  6:08,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         142           2         459         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:45:01 up 24 days,  6:13,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         141           2         459         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:50:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:50:02 up 24 days,  6:18,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         140           2         460         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 07:55:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 07:55:01 up 24 days,  6:23,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         141           2         460         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:00:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:00:01 up 24 days,  6:28,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         141           2         460         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:05:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:05:01 up 24 days,  6:33,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         143           2         460         414
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:10:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:10:01 up 24 days,  6:38,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         141           2         460         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:15:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:15:01 up 24 days,  6:43,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         498         141           2         460         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:20:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:20:01 up 24 days,  6:48,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         497         142           2         460         413
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:25:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:25:01 up 24 days,  6:53,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         499         141           2         460         412
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:30:02 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:30:02 up 24 days,  6:58,  6 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         500         139           2         460         411
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:35:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:35:01 up 24 days,  7:03,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         519         104           2         476         391
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:40:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:40:01 up 24 days,  7:08,  7 users,  load average: 0.03, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         519         223           2         356         391
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:45:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:45:01 up 24 days,  7:13,  7 users,  load average: 0.02, 0.01, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         521         221           2         356         389
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent
+===== Week 1 Health Check =====
+Timestamp: Wed May  6 08:50:01 UTC 2026
+Hostname: ip-172-31-18-193
+
+Uptime:
+ 08:50:01 up 24 days,  7:18,  7 users,  load average: 0.00, 0.00, 0.00
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:             911         523         218           2         356         387
+Swap:              0           0           0
+
+Disk usage for the root filesystem:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  4.4G  2.4G  65% /
+
+SSH service state: active
+Cron service state: active
+OK: Root filesystem usage is below 80 percent

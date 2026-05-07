@@ -1,0 +1,31 @@
+Output of /home directory:
+total 100
+drwxr-xr-x 25 root         root         4096 Apr 22 00:13 .
+drwxr-xr-x 24 root         root         4096 Apr 20 16:33 ..
+drwxr-x---  5 akaate       akaate       4096 Apr 23 11:54 akaate
+drwxr-x---  6 alejandra    alejandra    4096 Apr 18 00:41 alejandra
+drwxr-x---  3 alice        alice        4096 Apr 18 00:41 alice
+drwxr-x---  3 amanda       amanda       4096 Apr 18 00:41 amanda
+drwxr-x---  4 ana          ana          4096 Apr 18 00:41 ana
+drwxr-x---  9 charles      charles      4096 Apr 23 11:57 charles
+drwxr-x---  5 christian    christian    4096 Apr 21 22:45 christian
+drwxr-x---  2 akaate       akaate       4096 Apr 15 13:58 deploy
+drwxr-x---  7 erochukwu    erochukwu    4096 Apr 23 00:12 erochukwu
+drwxr-x---  6 gilbert      gilbert      4096 Apr 19 14:15 gilbert
+drwxr-x---  8 hannah       hannah       4096 Apr 22 17:49 hannah
+drwxr-x---  7 joseph       joseph       4096 Apr 21 01:25 joseph
+drwxr-x---  6 nkechi       nkechi       4096 Apr 20 23:00 nkechi
+drwxr-x---  6 ola          ola          4096 Apr 21 14:41 ola
+drwxr-x---  7 ronke        ronke        4096 Apr 18 00:41 ronke
+drwxr-x---  4 sadiya       sadiya       4096 Apr 18 00:41 sadiya
+drwxr-x---  8 sidar        sidar        4096 Apr 22 16:17 sidar
+drwxr-x---  6 sunkanmi     sunkanmi     4096 Apr 19 16:41 sunkanmi
+drwxr-x---  2 support-user support-user 4096 Apr 18 00:41 support-user
+drwxr-x---  7 tasmin       tasmin       4096 Apr 22 00:08 tasmin
+drwxr-x---  4 timileyin    timileyin    4096 Apr 18 00:41 timileyin
+drwxr-x---  7 ubuntu       ubuntu       4096 Apr 22 01:09 ubuntu
+drwxr-x---  5 wisdom       wisdom       4096 Apr 21 19:00 wisdom
+
+My username: charles
+My assigned port: 8005
+This port belongs to me because: I counted my  position in the /home directory and mapped it to the port range 8000-8020.

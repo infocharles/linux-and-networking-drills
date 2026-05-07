@@ -1,0 +1,13 @@
+===== LOCAL HEALTHY CHECKS =====
+Tue Apr 28 09:57:19 UTC 2026
+
+Listening check:
+tcp   LISTEN 0      1                 0.0.0.0:8005      0.0.0.0:*          
+tcp   LISTEN 0      1                 0.0.0.0:8005      0.0.0.0:*          
+
+HTTP response:
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Connection: close
+
+Week 2 simple service is running on port 8005
